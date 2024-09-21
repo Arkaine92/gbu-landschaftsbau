@@ -180,7 +180,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default {
     border-color: transparent;
-    background-color: #ee7622;
+    background-color: rgb(216,212,210);
 }
 
 .navbar-default .navbar-brand {
@@ -218,7 +218,7 @@ fieldset[disabled] .btn-xl.active {
     font-family: Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 400;
     letter-spacing: 1px;
-    color: #fff;
+    color: #000;
     -webkit-transition: all ease .35s;
     -moz-transition: all ease .35s;
     transition: all ease .35s;
@@ -239,7 +239,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus {
     color: #fff;
-    background-color: #439613;
+    background-color: #6fb746;
 }
 
 @media(min-width:768px) {
@@ -265,7 +265,7 @@ fieldset[disabled] .btn-xl.active {
 
     .navbar-default.navbar-shrink {
         padding: 10px 0;
-        background-color: #222;
+        background-color: rgb(216,212,210);
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
@@ -277,7 +277,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('/img/header-bg.jpg');
+    background-image: url('/assets/img/header_background_2.jpg');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
